@@ -1,2 +1,2 @@
-# berserk
-it is an anime
+# btech cse
+i am student of btech cse at lovely professional university
